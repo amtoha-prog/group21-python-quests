@@ -1,3 +1,7 @@
+# Quest 25: The Number Wizard
+# Author: amtoha-prog | a.mtoha@alustudent.com
+# African Leadership University (ALU) — BSE Year 1
+
 import random
 
 # Generate a random secret number between 1 and 100.

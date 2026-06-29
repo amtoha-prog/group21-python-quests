@@ -1,3 +1,7 @@
+# Quest 26: The Simple Calculator
+# Author: amtoha-prog | a.mtoha@alustudent.com
+# African Leadership University (ALU) — BSE Year 1
+
 # Each arithmetic operation is its own function.
 # This keeps logic separated and makes it easy to add new operations later
 # without rewriting the decision-making code at the bottom.

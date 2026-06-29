@@ -1,3 +1,7 @@
+# Quest 27: FizzBuzz
+# Author: amtoha-prog | a.mtoha@alustudent.com
+# African Leadership University (ALU) — BSE Year 1
+
 # FizzBuzz: loop through every number from 1 to 100.
 # The rule is: Fizz for multiples of 3, Buzz for multiples of 5,
 # FizzBuzz for multiples of both, and the number itself for everything else.
