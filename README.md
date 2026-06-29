@@ -95,6 +95,11 @@ python3 quests/quest_01_first_spell.py
 Group 21 reviewed both of its assigned peer groups and provided detailed, constructive feedback on their submitted quests.
 
 ## Group Members
+<<<<<<< HEAD
+=======
+-Ikenwe Testimony
+- Regan Ayiecho (rayiecho)
+>>>>>>> e0372df596563d3b6aad523bb6d4ba83868d64cf
 
 - Ikenwe Testimony
 - Regan Ayiecho (rayiecho)
