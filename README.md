@@ -25,13 +25,13 @@ group21-python-quests/
 
 │   ├── quest_09_greedy_goblin.py
 
-│   ├── quest_10_architects_blueprint.py
+│   ├── quest_10_architect_blueprint.py
 
-│   ├── quest_11_guardian_of_the_bridge.py
+│   ├── quest_11_guardian_of_bridge.py
 
 │   ├── quest_12_two_path_cave.py
 
-│   ├── quest_13_maze_of_many_choices.py
+│   ├── quest_13_maze_of_choices.py
 
 │   ├── quest_14_logical_gatekeeper.py
 
@@ -59,13 +59,7 @@ group21-python-quests/
 
 │   ├── quest_26_simple_calculator.py
 
-│   ├── quest_27_fizzbuzz_test.py
-
-│   ├── quest_28_adventure_begins.py
-
-│   ├── quest_29_code_breaker.py
-
-│   └── quest_30_reflective_scribe.py
+│   └── quest_27_fizzbuzz.py
 
 └── README.md
 
