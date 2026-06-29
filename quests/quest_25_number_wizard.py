@@ -1,6 +1,7 @@
+#!/usr/bin/python3
 # Quest 25: The Number Wizard
-# Author: amtoha-prog | a.mtoha@alustudent.com
-# African Leadership University (ALU) — BSE Year 1
+# The Quest: Upgrade your number guessing game. After each wrong guess,
+# tell the user if their guess was "too high" or "too low".
 
 import random
 

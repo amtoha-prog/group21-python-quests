@@ -1,6 +1,8 @@
-# Quest 27: FizzBuzz
-# Author: amtoha-prog | a.mtoha@alustudent.com
-# African Leadership University (ALU) — BSE Year 1
+#!/usr/bin/python3
+# Quest 27: The FizzBuzz Test
+# The Quest: A classic challenge. Print numbers from 1 to 100. For multiples
+# of 3, print "Fizz". For multiples of 5, print "Buzz". For multiples of
+# both, print "FizzBuzz".
 
 # FizzBuzz: loop through every number from 1 to 100.
 # The rule is: Fizz for multiples of 3, Buzz for multiples of 5,

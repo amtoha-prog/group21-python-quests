@@ -1,6 +1,8 @@
+#!/usr/bin/python3
 # Quest 26: The Simple Calculator
-# Author: amtoha-prog | a.mtoha@alustudent.com
-# African Leadership University (ALU) — BSE Year 1
+# The Quest: Write a program that acts as a simple calculator. Ask for two
+# numbers and an operation (add, subtract, etc.). Use functions for each
+# operation and an if-elif-else chain to call the correct one.
 
 # Each arithmetic operation is its own function.
 # This keeps logic separated and makes it easy to add new operations later
