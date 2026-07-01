@@ -61,6 +61,12 @@ group21-python-quests/
 
 │   └── quest_27_fizzbuzz.py
 
+│   └── quest_28_adventure_begins.py
+
+│   └── quest_29_code_breaker.py
+
+│   └── quest_30_reflective_scrib.py
+
 └── README.md
 
 ## Levels Completed
